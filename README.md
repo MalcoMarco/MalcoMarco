@@ -2,7 +2,7 @@
 
 ### Contato:
 - minayamalco@gmail.com
-- +51 921299504
+
 <!--
 **MalcoMarco/MalcoMarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
