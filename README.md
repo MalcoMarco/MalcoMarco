@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Contato:
+### Contacto:
 - minayamalco@gmail.com
 
 <!--
